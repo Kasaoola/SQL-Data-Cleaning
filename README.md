@@ -2,7 +2,7 @@
 
 This project focuses on cleaning and preparing a real-world housing dataset using SQL Server. The raw data comes from [Nashville, TN public records](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data), and the goal is to make it analysis-ready by handling inconsistencies, nulls, column formatting, and duplication.
 
----
+--
 
 ## 📂 Dataset Used
 
